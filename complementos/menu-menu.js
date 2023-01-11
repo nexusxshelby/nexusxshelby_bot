@@ -32,7 +32,7 @@ let str = `
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ║➤ *Owner:* Bruno Sobrino
 ║➤ *Numero:* wa.me/56920684086
-║➤ *Bot ofc:* wa.me/56923796966
+║➤ *Bot ofc:* wa.me/14157971825
 ║➤ *Fecha:* ${date }
 ║➤ *Tiempo activo:* ${uptime }
 ║➤ *Usuarios:* ${rtotalreg}
