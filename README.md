@@ -1,4 +1,4 @@
-# `🧿 𝚃𝚑𝚎 PORCHA☆*: .｡. o(≧▽≦)o .｡.:*☆
+# `𝚃𝚑𝚎 PORCHA☆*: .｡. o(≧▽≦)o .｡.:*☆
 
 ### `—◉ 👑 DUDAS SOBRE EL BOT?, CONTACTANOS 👑`
 <a href="http://wa.me/623442554" target="blank"><img src="https://img.shields.io/badge/Shizu-Hub-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
