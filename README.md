@@ -1,8 +1,8 @@
 # `𝚃𝚑𝚎 PORCHA☆*: .｡. o(≧▽≦)o .｡.:*☆
 
 ### `—◉ 👑 DUDAS SOBRE EL BOT?, CONTACTANOS 👑`
-<a href="http://wa.me/623442554" target="blank"><img src="https://img.shields.io/badge/Shizu-Hub-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-
+<a href="http://wa.me/56920684086
+"
 ### `—◉ 💟 GRUPO DE SOPORTE 💟`
 
 <a href="https://chat.whatsapp.com/DNJ4Ppm5ysn3ffdgdgflrr0J" target="blank"><img src="https://img.shields.io/badge/GRUPO_DE_SOPORTE-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
