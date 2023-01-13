@@ -31,8 +31,7 @@ let str = `
 ║➤ *𝗛ola, ${taguser}*
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ║➤ *Owner:*  porcha bot
-║➤ *Numero:* wa.me/56920684086
-║➤ *Bot ofc:* wa.me/14157971825
+║➤ *Numero:* wa.me/56920684068
 ║➤ *Fecha:* ${date }
 ║➤ *Tiempo activo:* ${uptime}
 ║➤ *Usuarios:* ${rtotalreg}
