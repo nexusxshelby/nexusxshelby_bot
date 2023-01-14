@@ -1,4 +1,4 @@
-# `𝚃𝚑𝚎 PORCHA☆*: .｡. o(≧▽≦)o .｡.:*☆
+# `𝚃𝚑𝚎 PORCHA☆*: .｡. o(≧▽≦)o .｡.:*☆´
 
 ### `—◉ 👑 DUDAS SOBRE EL BOT?, CONTACTANOS 👑`
 wa.me/56920684086
